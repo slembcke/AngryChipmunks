@@ -1,6 +1,8 @@
 Angry Chipmunks
 =
 
+![Screenshot](http://files.slembcke.net/upshot/upshot_vkg18tla.png)
+
 Angry Chipmunks is a simple game that will show you how easy it is to use Chipmunk to painlessly add physics to your Cocos2D game. Feel free to reuse any of this code in your own projects.
 
 In this example you will see how to:
