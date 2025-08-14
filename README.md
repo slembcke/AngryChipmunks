@@ -12,6 +12,8 @@ git reset origin/master
 
 You may additionally need to run `git checkout .` to cleanup the deleted files. *This will also discard your local changes if you have made any.*
 
+To read more about why this project moved, you can read about it in [PROJECT_HAS_MOVED.md](PROJECT_HAS_MOVED.md)
+
 # Angry Chipmunks
 
 ![Screenshot](http://files.slembcke.net/upshot/upshot_vkg18tla.png)
