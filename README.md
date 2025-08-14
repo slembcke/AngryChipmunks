@@ -1,5 +1,18 @@
-Angry Chipmunks
-=
+## This Project has Moved!
+
+You can find the new project page on the [Chipmunk2D Website](https://chipmunk-physics.net/git/AngryChipmunks.html).
+
+To migrate an existing checkout, you can use the following command, or make a new checkout of the project from the new location.
+
+```
+git remote set-url origin https://chipmunk-physics.net/git/AngryChipmunks
+git fetch origin master
+git reset origin/master
+```
+
+You may additionally need to run `git checkout .` to cleanup the deleted files. *This will also discard your local changes if you have made any.*
+
+# Angry Chipmunks
 
 ![Screenshot](http://files.slembcke.net/upshot/upshot_vkg18tla.png)
 
